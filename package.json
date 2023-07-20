@@ -1,6 +1,6 @@
 {
   "name": "api-requests.http.extensions",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "repository": "git@github.com:DES-Destry/ApiRequests.Http.Extensions.git",
   "author": "Andrey Kirik <dev.andrey.kirik@gmail.com>",
   "license": "MIT",
